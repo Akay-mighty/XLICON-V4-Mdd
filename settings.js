@@ -45,8 +45,8 @@ global.location = "Pakistan, Lahore, Sabzazar" //ur location
 
 //new
 global.botname = 'XLICON-V4-MD' //ur bot name
-global.ownernumber = ['2347019314271'] //ur owner number, dont add more than one
-global.ownername = 'akay mighty' //ur owner name
+global.ownernumber = ['2347058814971'] //ur owner number, dont add more than one
+global.ownername = 'adeola' //ur owner name
 global.websitex = "https://youtube.com/@s4salmanyt"
 global.wagc = "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
 global.themeemoji = '⛩'
